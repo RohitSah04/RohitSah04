@@ -1,1 +1,1 @@
-https://capsule-render.vercel.app/api?type=blur&height=300&color=8183DF&text=Rohit%20Sah&fontColor=9697E4&fontSize=70&rotate=0&fontAlign=24&fontAlignY=49&desc="Full%20Stack%20Developer%20"🧑🏻‍💻&descSize=24&descAlign=44&descAlignY=64
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=8183DF&text=Rohit%20Sah&fontColor=9697E4&fontSize=70&rotate=0&fontAlign=24&fontAlignY=49&desc=Full%20Stack%20Developer%20🧑🏻‍💻&descSize=24&descAlign=44&descAlignY=64)
